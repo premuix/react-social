@@ -15,7 +15,7 @@ const Home = () => {
           transition={{ duration: 1 }}
         >
           <NavbarStr />
-<p>s</p>
+
           <section className="py-80">
             <div className="container">
               <div className="row gx-5">
