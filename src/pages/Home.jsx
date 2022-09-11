@@ -14,7 +14,6 @@ const Home = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 1 }}
         >
-<p>ds</p>
           <NavbarStr />
 
           <section className="py-80">
