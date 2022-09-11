@@ -21,7 +21,7 @@ const Home = () => {
             <div className="container">
               <div className="row gx-5">
                 <div className="col-lg-8">
-                <div>Hello</div>
+                <div
                   <div className="video-box position-relative text-center">
                     <div className="position-absolute top-0 start-0">
                       <div className="date-cal">
