@@ -16,7 +16,7 @@ const Home = () => {
         >
 
           <NavbarStr />
-<div>ssssssssssdc</div>
+          
           <section className="py-80">
             <div className="container">
               <div className="row gx-5">
