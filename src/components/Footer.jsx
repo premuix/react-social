@@ -9,9 +9,9 @@ const Footer= () => {
             <div className="p-2 flex-grow-1 text-white sw-social">
               <p className="fs-5">Let’s keep in touch!<br />
                 Find us on any of these platforms.</p>
-              <a href="/"><img src="/icon-github.svg" alt="git" /></a>
-              <a href="/"><img src="/icons-linkedin.svg" alt="linkedin" /></a>
-              <a href="/"><img src="/icons-twitter.svg" alt="twitter" /></a>
+              <a href="/"><img src="./assets/images/icon-github.svg" alt="git" /></a>
+              <a href="/"><img src="./assets/images/icons-linkedin.svg" alt="linkedin" /></a>
+              <a href="/"><img src="./assets/images/icons-twitter.svg" alt="twitter" /></a>
             </div>
             <div className="p-2 text-white">
               <p className="h2 ">Address</p>
@@ -24,7 +24,7 @@ const Footer= () => {
           <div className="container">
             <div className="d-flex align-items-center">
               <div className=" flex-grow-1 ">
-                <img src=" /logoSocialWell.svg" alt="logo" />
+                <img src=" ./assets/images/logoSocialWell.svg" alt="logo" />
               </div>
               <div className="">
                 <p className="fs-14 fw-light mt-3">＠ SocialWell Technologies Private Limited</p>
