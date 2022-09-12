@@ -29,7 +29,7 @@ const About = () => {
                     </div>
                     <div className="position-absolute top-50 start-50 translate-middle"><i className=" bi bi-play-circle-fill"></i>
                     </div>
-                    <img className="img-fluid" src="./assets/images/video.png" alt="Video" />
+                    <img className="img-fluid" src="video.png" alt="Video" />
                   </div>
                   <div className="text-end py-3 fs-14 d-flex justify-content-end ">
                     <div>100 views</div>
@@ -79,12 +79,12 @@ const About = () => {
                     <div className="like-comment text-uppercase d-flex justify-content-end align-items-center mb-4">
                       <div className="mx-4">
                         <a href="/">
-                          <i><img src="./assets/images/comment-icon.svg" alt="Comment" />
+                          <i><img src="comment-icon.svg" alt="Comment" />
                           </i>0 COMMENTS</a>
                       </div>
                       <div className="mx-4">
                         <a href="/">
-                          <i><img src="./assets/images/link-icon.svg" alt="Like" />
+                          <i><img src="link-icon.svg" alt="Like" />
                           </i>Like</a>
                       </div>
                     </div>
